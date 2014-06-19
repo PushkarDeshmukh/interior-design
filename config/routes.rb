@@ -4,6 +4,11 @@ Interior::Application.routes.draw do
   get "interior/about_us"
   get "interior/portfoliov2"
   get "interior/gallery"
+  get "interior/projects"
+  get "interior/project1"
+  get "interior/project2"
+  get "interior/project3"
+  get "interior/project4"
   get "interior/contact_us"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
